@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "84747a5efacd03139bc675bcf1965941c62a5c5cc5d6fa52832f4f2dde585a67"
+            "sha256": "f8eb271b7a5b05fa4bc7c15da1ad28771b2d876377370542695028bd5975c047"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -39,6 +39,12 @@
                 "sha256:e39ced1ab767b5936646cedba8bcce582398233d6a627067d4c6a454c90cfedb"
             ],
             "version": "==0.16.0"
+        },
+        "painter": {
+            "hashes": [
+                "sha256:3373463d584ba9bbbb23d570c37893e7930b93704fe1149df88e9d2ef906fc88"
+            ],
+            "version": "==0.3.1"
         },
         "python-telegram-bot": {
             "hashes": [
