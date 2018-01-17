@@ -1,5 +1,5 @@
 run:
-    pipenv run python main.py
+    pipenv run python src/main.py
 
 install:
     pipenv install
